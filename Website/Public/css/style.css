@@ -1,0 +1,129 @@
+* {
+    box-sizing: border-box;
+  }
+  body{
+    margin: auto;
+    width: auto;
+    
+    
+  }
+  
+  .content{
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .footer{
+    padding: 20px;
+    float: left;
+    
+    margin-top: 20px;
+    margin-bottom: 10px;
+    
+      
+  }
+  
+  .left {
+  
+    padding: 20px;
+    float: left;
+
+    
+  }
+  
+  .main {
+    padding: 20px;
+    float: left;
+    
+  }
+  
+  .right {
+    padding: 20px;
+    float: left;
+    
+  }
+  
+
+/* Menu Drop */
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+    
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a, .dropbtn {
+    display: inline-block;
+    color:darkblue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover, .dropdown:hover .dropbtn {
+    background-color:white;
+  }
+  
+  li.dropdown {
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content a:hover {background-color: #f1f1f1;}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+
+/* Details News */
+  .nameBT{
+    float: left;
+    margin-top: 10px;
+    color: black;
+    text-transform: capitalize;
+    font-size: 22px;
+   
+  }
+  .imageBT{
+    float: left;
+   
+  }
+  .motaBT{
+    float: left;
+    padding: 20px;
+    font-size: 14px;
+    
+  } 
+  .date{
+    float: left;
+    text-align: right;
+  } 
+  .fontheader{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    color:chartreuse;
+  }
+
+  

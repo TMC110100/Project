@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>localhost</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>localhosthome</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhostHome</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhostNews</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhostContact</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhostRegister</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhostLogin</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhosthome/bantin?id=1</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhosthome/bantin?id=2</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhosthome/bantin?id=3</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhosthome/bantin?id=4</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhosthome/bantin?id=5</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhosthome/bantin?id=6</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhosthome/bantin?id=13</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhosthome/bantin?id=14</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhosthome/bantin?id=15</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhosthome/bantin?id=16</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhosthome/bantin?id=17</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhosthome/bantin?id=18</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhosthome/bantin?id=19</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhosthome/detailsBT?id=15</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhosthome/detailsBT?id=14</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhosthome/detailsBT?id=13</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhosthome/detailsBT?id=12</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhosthome/detailsBT?id=11</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhosthome/detailsBT?id=7</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhosthome/detailsBT?id=6</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhosthome/detailsBT?id=5</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhosthome/detailsBT?id=2</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhosttw</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhostins</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhostfacebook</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhosttwitter</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>localhostlogin</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>localhostpassword.html</loc>
+  <lastmod>2022-04-06T03:15:59+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
