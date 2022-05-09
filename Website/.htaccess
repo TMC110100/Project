@@ -1,0 +1,13 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteRule ^(.+)$ index.php?url=$1 [L,QSA]
+
+ErrorDocument 401 localhost401.html
+ 
+ErrorDocument 403 localhost403.html
+ 
+ErrorDocument 404 localhost404.html
+ 
+ErrorDocument 500 localhost500.html
